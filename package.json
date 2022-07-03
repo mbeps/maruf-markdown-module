@@ -1,0 +1,20 @@
+{
+    "name": "markdown-module",
+    "displayName": "Markdown Module",
+    "description": "List of extensions for markdown ",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "docsmsft.docs-markdown",
+        "yzhang.markdown-all-in-one",
+        "josephcz.vscode-markdown-mindmap-preview",
+        "kortina.vscode-markdown-notes",
+        "mindnotes.mind-lang"
+    ]
+}
