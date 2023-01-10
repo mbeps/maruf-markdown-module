@@ -4,6 +4,7 @@
     "description": "List of extensions for markdown ",
     "version": "0.0.1",
     "publisher": "Maruf",
+    "repository": "https://github.com/mbeps/maruf-markdown-module",
     "engines": {
         "vscode": "^1.68.0"
     },
